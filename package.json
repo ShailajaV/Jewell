@@ -21,7 +21,7 @@
 		"react-native-navbar": "^1.7.1",
 		"react-native-responsive-image": "^2.1.0",
 		"react-native-router-flux": "^4.0.0-beta.7",
-		"react-native-side-menu": "^0.20.3",
+		"react-native-side-menu": "^1.0.2",
 		"react-native-simple-radio-button": "^2.5.0-alpha.1",
 		"react-native-tab-view": "0.0.67",
 		"react-native-vector-icons": "^4.2.0",
